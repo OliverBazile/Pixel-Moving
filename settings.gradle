@@ -1,0 +1,2 @@
+rootProject.name = "Pixel Moving"
+include ':app'
